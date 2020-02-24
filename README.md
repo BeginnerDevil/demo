@@ -1,4 +1,4 @@
-# 学习demo集合
+# demo集合
 ## demo  
 [react-native](https://github.com/BeginnerDevil/React-Native-App)  
 [koa](https://github.com/BeginnerDevil/koa)  
